@@ -1,0 +1,270 @@
+<table class="table table-hover" id="lectDiaria">
+                       <caption style="display: none;">Grado: 4to Diver<br> Carrera: Bachillerato en computación <br>  Semana: 25<br> Reporte a fecha: 12/08/2020 09:28:11</caption>
+                      <thead>
+
+                                                <tr>
+                          <th scope="col">Alumno</th>
+                          <th scope="col">Registros</th>
+                          
+                                                    <th title="Luz de luna" scope="col">Martes<br>Luz de luna</th>
+                                                  <th scope="col">Avance Semanal</th>
+                        </tr>
+                      </thead>
+
+                      <tbody class="text-left">
+                                                 <tr>
+                            
+                          <td>Byron Jose Albizures Quevedo</td>
+                          <td><a href="reportesDetalles.php?idUsuario=8021&amp;semana=25&amp;grado=10&amp;nombreUsuario=Byron Jose Albizures Quevedo" target="_blank">Detalle</a></td>
+                          <td>No</td>
+
+                            
+                          <td></td>
+
+                           
+                          <td>0%</td>
+                        </tr>
+                                                      <tr>
+                            
+                          <td>Diego Andres Alvarez Gutierrez</td>
+                          <td><a href="reportesDetalles.php?idUsuario=8022&amp;semana=25&amp;grado=10&amp;nombreUsuario=Diego Andres Alvarez Gutierrez" target="_blank">Detalle</a></td>
+                          <td>No</td>
+
+                            
+                          <td></td>
+
+                           
+                          <td>0%</td>
+                        </tr>
+                                                      <tr>
+                            
+                          <td>Julio Ernesto Aragon Lopez</td>
+                          <td><a href="reportesDetalles.php?idUsuario=8023&amp;semana=25&amp;grado=10&amp;nombreUsuario=Julio Ernesto Aragon Lopez" target="_blank">Detalle</a></td>
+                          <td>No</td>
+
+                            
+                          <td></td>
+
+                           
+                          <td>0%</td>
+                        </tr>
+                                                      <tr>
+                            
+                          <td>Jose Javier Arango Rodriguez</td>
+                          <td><a href="reportesDetalles.php?idUsuario=8024&amp;semana=25&amp;grado=10&amp;nombreUsuario=Jose Javier Arango Rodriguez" target="_blank">Detalle</a></td>
+                          <td>No</td>
+
+                            
+                          <td></td>
+
+                           
+                          <td>0%</td>
+                        </tr>
+                                                      <tr>
+                            
+                          <td>Fernando Javier  Archila de Paz</td>
+                          <td><a href="reportesDetalles.php?idUsuario=8025&amp;semana=25&amp;grado=10&amp;nombreUsuario=Fernando Javier  Archila de Paz" target="_blank">Detalle</a></td>
+                          <td>No</td>
+
+                            
+                          <td></td>
+
+                           
+                          <td>0%</td>
+                        </tr>
+                                                      <tr>
+                            
+                          <td>Mark Alejandro Chang Mazariegos</td>
+                          <td><a href="reportesDetalles.php?idUsuario=8026&amp;semana=25&amp;grado=10&amp;nombreUsuario=Mark Alejandro Chang Mazariegos" target="_blank">Detalle</a></td>
+                          <td>No</td>
+
+                            
+                          <td></td>
+
+                           
+                          <td>0%</td>
+                        </tr>
+                                                      <tr>
+                            
+                          <td>Diego Alejandro  Cifuentes Marroquin</td>
+                          <td><a href="reportesDetalles.php?idUsuario=8027&amp;semana=25&amp;grado=10&amp;nombreUsuario=Diego Alejandro  Cifuentes Marroquin" target="_blank">Detalle</a></td>
+                          <td>No</td>
+
+                            
+                          <td></td>
+
+                           
+                          <td>0%</td>
+                        </tr>
+                                                      <tr>
+                            
+                          <td>Hugo Gerardo De Leon Hernandez</td>
+                          <td><a href="reportesDetalles.php?idUsuario=8028&amp;semana=25&amp;grado=10&amp;nombreUsuario=Hugo Gerardo De Leon Hernandez" target="_blank">Detalle</a></td>
+                          <td>No</td>
+
+                            
+                          <td></td>
+
+                           
+                          <td>0%</td>
+                        </tr>
+                                                      <tr>
+                            
+                          <td>Christian Alejandro Donis Matias</td>
+                          <td><a href="reportesDetalles.php?idUsuario=8029&amp;semana=25&amp;grado=10&amp;nombreUsuario=Christian Alejandro Donis Matias" target="_blank">Detalle</a></td>
+                          <td>No</td>
+
+                            
+                          <td></td>
+
+                           
+                          <td>0%</td>
+                        </tr>
+                                                      <tr>
+                            
+                          <td>Angel Andres Escobedo Morales</td>
+                          <td><a href="reportesDetalles.php?idUsuario=8030&amp;semana=25&amp;grado=10&amp;nombreUsuario=Angel Andres Escobedo Morales" target="_blank">Detalle</a></td>
+                          <td>No</td>
+
+                            
+                          <td></td>
+
+                           
+                          <td>0%</td>
+                        </tr>
+                                                      <tr>
+                            
+                          <td>Victor Leonardo Estin Arauz</td>
+                          <td><a href="reportesDetalles.php?idUsuario=8031&amp;semana=25&amp;grado=10&amp;nombreUsuario=Victor Leonardo Estin Arauz" target="_blank">Detalle</a></td>
+                          <td>No</td>
+
+                            
+                          <td></td>
+
+                           
+                          <td>0%</td>
+                        </tr>
+                                                      <tr>
+                            
+                          <td>Cristian Alexander  Juarez Castro </td>
+                          <td><a href="reportesDetalles.php?idUsuario=8032&amp;semana=25&amp;grado=10&amp;nombreUsuario=Cristian Alexander  Juarez Castro " target="_blank">Detalle</a></td>
+                          <td>No</td>
+
+                            
+                          <td></td>
+
+                           
+                          <td>0%</td>
+                        </tr>
+                                                      <tr>
+                            
+                          <td>Manuel Alejandro  Lopez Castro</td>
+                          <td><a href="reportesDetalles.php?idUsuario=8033&amp;semana=25&amp;grado=10&amp;nombreUsuario=Manuel Alejandro  Lopez Castro" target="_blank">Detalle</a></td>
+                          <td>No</td>
+
+                            
+                          <td></td>
+
+                           
+                          <td>0%</td>
+                        </tr>
+                                                      <tr>
+                            
+                          <td>Carlos Andres Nisthal Amaya</td>
+                          <td><a href="reportesDetalles.php?idUsuario=8034&amp;semana=25&amp;grado=10&amp;nombreUsuario=Carlos Andres Nisthal Amaya" target="_blank">Detalle</a></td>
+                          <td>No</td>
+
+                            
+                          <td></td>
+
+                           
+                          <td>0%</td>
+                        </tr>
+                                                      <tr>
+                            
+                          <td>Brandon Ivan Ortega Esteban</td>
+                          <td><a href="reportesDetalles.php?idUsuario=8035&amp;semana=25&amp;grado=10&amp;nombreUsuario=Brandon Ivan Ortega Esteban" target="_blank">Detalle</a></td>
+                          <td>No</td>
+
+                            
+                          <td></td>
+
+                           
+                          <td>0%</td>
+                        </tr>
+                                                      <tr>
+                            
+                          <td>Bryan Nicolas Ortega Esteban</td>
+                          <td><a href="reportesDetalles.php?idUsuario=8036&amp;semana=25&amp;grado=10&amp;nombreUsuario=Bryan Nicolas Ortega Esteban" target="_blank">Detalle</a></td>
+                          <td>No</td>
+
+                            
+                          <td></td>
+
+                           
+                          <td>0%</td>
+                        </tr>
+                                                      <tr>
+                            
+                          <td>Rodrigo Alejandro Pineda Perez</td>
+                          <td><a href="reportesDetalles.php?idUsuario=8037&amp;semana=25&amp;grado=10&amp;nombreUsuario=Rodrigo Alejandro Pineda Perez" target="_blank">Detalle</a></td>
+                          <td>No</td>
+
+                            
+                          <td></td>
+
+                           
+                          <td>0%</td>
+                        </tr>
+                                                      <tr>
+                            
+                          <td>Pablo Andres Pineda Polanco</td>
+                          <td><a href="reportesDetalles.php?idUsuario=8038&amp;semana=25&amp;grado=10&amp;nombreUsuario=Pablo Andres Pineda Polanco" target="_blank">Detalle</a></td>
+                          <td>No</td>
+
+                            
+                          <td></td>
+
+                           
+                          <td>0%</td>
+                        </tr>
+                                                      <tr>
+                            
+                          <td>Jorge Andre Quinonez Saavedra</td>
+                          <td><a href="reportesDetalles.php?idUsuario=8039&amp;semana=25&amp;grado=10&amp;nombreUsuario=Jorge Andre Quinonez Saavedra" target="_blank">Detalle</a></td>
+                          <td>No</td>
+
+                            
+                          <td></td>
+
+                           
+                          <td>0%</td>
+                        </tr>
+                                                      <tr>
+                            
+                          <td>Franklin Estuardo Ramos Martinez</td>
+                          <td><a href="reportesDetalles.php?idUsuario=8040&amp;semana=25&amp;grado=10&amp;nombreUsuario=Franklin Estuardo Ramos Martinez" target="_blank">Detalle</a></td>
+                          <td>No</td>
+
+                            
+                          <td></td>
+
+                           
+                          <td>0%</td>
+                        </tr>
+                                                      <tr>
+                            
+                          <td>Jordi Adrian Samayoa Rivas</td>
+                          <td><a href="reportesDetalles.php?idUsuario=8041&amp;semana=25&amp;grado=10&amp;nombreUsuario=Jordi Adrian Samayoa Rivas" target="_blank">Detalle</a></td>
+                          <td>No</td>
+
+                            
+                          <td></td>
+
+                           
+                          <td>0%</td>
+                        </tr>
+                                                  
+                                                        
+                      </tbody>
+                    </table>

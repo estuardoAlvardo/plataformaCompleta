@@ -1,0 +1,154 @@
+/*Lecturas Medicion*/
+
+INSERT INTO `atom1`.`atomolector` (`idLectura`, `nombreLectura`, `descripcion`, `edadLectura`, `rutaPasta`, `rutaLectura`, `grado`, `tipoLectura`, `cantidadFicheros`, `audio`, `noLecturaDiaria`, `estatus`, `semanaMaestro`) VALUES ('21824', 'Enanito minero ', 'Lectura Infantil Narrado', '3,4 años', 'atomLector/pasta/inicial/', 'atomLector/lecturasMovil/lecturasMedicion/1in/lect74/', '13', 'Continua', '16', 'atomLector/recursosPrescolar/semana30/prekinder/enanitominero.mp3', '0', '1', 'Lunes 10 al viernes 14 de agosto 2020');
+
+
+INSERT INTO `atom1`.`atomolector` (`idLectura`, `nombreLectura`, `descripcion`, `edadLectura`, `rutaPasta`, `rutaLectura`, `grado`, `tipoLectura`, `cantidadFicheros`, `audio`, `noLecturaDiaria`, `estatus`, `semanaMaestro`) VALUES ('21424', 'Todos tenemos una familia ', 'Lectura Infantil Narrado', '4,5,6 años', 'atomLector/pasta/inicial/', 'atomLector/lecturasMovil/lecturasMedicion/2in/lect74/', '14', 'Texto corto infantil', '16', 'atomLector/recursosPrescolar/semana30/kinder/todostenemosunafamilia.mp3', '0', '1', 'Lunes 10 al viernes 14 de agosto 2020');
+
+
+INSERT INTO `atom1`.`atomolector` (`idLectura`, `nombreLectura`, `descripcion`, `edadLectura`, `rutaPasta`, `rutaLectura`, `grado`, `tipoLectura`, `cantidadFicheros`, `audio`, `noLecturaDiaria`, `estatus`, `semanaMaestro`) VALUES ('21524', 'La rana que no sabía croar', 'Cuento Infantil narrado', '4,5 años ', 'atomLector/pasta/inicial/', 'atomLector/lecturasMovil/lecturasMedicion/3in/lect74/', '15', 'Continua', '16', 'atomLector/recursosPrescolar/semana30/prepa/laranaquenosabiacroar.mp3', '0', '1', 'Lunes 10 al viernes 14 de agosto 2020');
+
+
+INSERT INTO `atom1`.`atomolector` (`idLectura`, `nombreLectura`, `descripcion`, `edadLectura`, `rutaPasta`, `rutaLectura`, `grado`, `tipoLectura`, `cantidadFicheros`, `audio`, `noLecturaDiaria`, `estatus`, `semanaMaestro`) VALUES ('20124', 'El mago alérgico', 'Cuento corto infantil', '5,6,7 años', 'atomLector/pasta/primaria/', 'atomLector/lecturasMovil/lecturasMedicion/1p/lect74/', '1', 'Texto Continuo', '6', 'asd', '0', '1', 'Lunes 10 al viernes 14 de agosto 2020');
+
+
+INSERT INTO `atom1`.`atomolector` (`idLectura`, `nombreLectura`, `descripcion`, `edadLectura`, `rutaPasta`, `rutaLectura`, `grado`, `tipoLectura`, `cantidadFicheros`, `audio`, `semana`, `noLecturaDiaria`, `gamificacionApp`, `estatus`, `semanaMaestro`) VALUES ('20224', 'Perseverancia', 'Texto corto infantil', '6,7,8 años', 'atomLector/pasta/primaria/', 'atomLector/lecturasMovil/lecturasMedicion/2p/lect74/', '2', 'Texto Continuo', '5', 'asd', NULL, '0', NULL, '1', 'Lunes 10 al viernes 14 de agosto 2020');
+
+
+INSERT INTO `atom1`.`atomolector` (`idLectura`, `nombreLectura`, `descripcion`, `edadLectura`, `rutaPasta`, `rutaLectura`, `grado`, `tipoLectura`, `cantidadFicheros`, `audio`, `noLecturaDiaria`, `estatus`, `semanaMaestro`) VALUES ('20324', 'El dueño de la luz', 'Texto corto infantil', '7,8 años', 'atomLector/pasta/primaria/', 'atomLector/lecturasMovil/lecturasMedicion/3p/lect74/', '3', 'Texto Continuo', '6', 'asd', '0', '1', 'Lunes 10 al viernes 14 de agosto 2020');
+
+
+INSERT INTO `atom1`.`atomolector` (`idLectura`, `nombreLectura`, `descripcion`, `edadLectura`, `rutaPasta`, `rutaLectura`, `grado`, `tipoLectura`, `cantidadFicheros`, `audio`, `noLecturaDiaria`, `estatus`, `semanaMaestro`) VALUES ('20424', 'El rey mocho', 'Texto Infantil', '9,10 años', 'atomLector/pasta/primaria/', 'atomLector/lecturasMovil/lecturasMedicion/4p/lect74/', '4', 'Texto Continuo', '6', 'asd', '0', '1', 'Lunes 10 al viernes 14 de agosto 2020');
+
+
+INSERT INTO `atom1`.`atomolector` (`idLectura`, `nombreLectura`, `descripcion`, `edadLectura`, `rutaPasta`, `rutaLectura`, `grado`, `tipoLectura`, `cantidadFicheros`, `audio`, `noLecturaDiaria`, `estatus`, `semanaMaestro`) VALUES ('20524', 'Una visita al mercado', 'Texto infantil', '10,11 años', 'atomLector/pasta/primaria/', 'atomLector/lecturasMovil/lecturasMedicion/5p/lect74/', '5', 'Texto Continuo', '5', 'asd', '0', '1', 'Lunes 10 al viernes 14 de agosto 2020');
+
+INSERT INTO `atom1`.`atomolector` (`idLectura`, `nombreLectura`, `descripcion`, `edadLectura`, `rutaPasta`, `rutaLectura`, `grado`, `tipoLectura`, `cantidadFicheros`, `audio`, `noLecturaDiaria`, `estatus`, `semanaMaestro`) VALUES ('20624', 'Solo, solo lo haré', 'Texto Infantil', '11,12 años', 'atomLector/pasta/primaria/', 'atomLector/lecturasMovil/lecturasMedicion/6p/lect74/', '6', 'Texto Continuo', '6', 'asd', '0', '1', 'Lunes 10 al viernes 14 de agosto 2020');
+
+
+INSERT INTO `atom1`.`atomolector` (`idLectura`, `nombreLectura`, `descripcion`, `edadLectura`, `rutaPasta`, `rutaLectura`, `grado`, `tipoLectura`, `cantidadFicheros`, `audio`, `noLecturaDiaria`, `estatus`, `semanaMaestro`) VALUES ('20724', 'El halcón maltés', 'Lectura Novela', '13,14 años', 'atomLector/pasta/basicos/', 'atomLector/lecturasMovil/lecturasMedicion/1s/lect74/', '7', 'Texto continuo', '18', 'asd', '0', '1', 'Lunes 10 al viernes 14 de agosto 2020');
+
+INSERT INTO `atom1`.`atomolector` (`idLectura`, `nombreLectura`, `descripcion`, `edadLectura`, `rutaPasta`, `rutaLectura`, `grado`, `tipoLectura`, `cantidadFicheros`, `audio`, `noLecturaDiaria`, `estatus`, `semanaMaestro`) VALUES ('20824', '1984 George Orwell', 'Literatura Novela', '12,13 años', 'atomLector/pasta/basicos/', 'atomLector/lecturasMovil/lecturasMedicion/2s/lect74/', '8', 'Texto continuo', '16', 'asd', '0', '1', 'Lunes 10 al viernes 14 de agosto 2020');
+
+
+
+
+INSERT INTO `atom1`.`atomolector` (`idLectura`, `nombreLectura`, `descripcion`, `edadLectura`, `rutaPasta`, `rutaLectura`, `grado`, `tipoLectura`, `cantidadFicheros`, `audio`, `noLecturaDiaria`, `estatus`, `semanaMaestro`) VALUES ('20924', 'Zorba el griego', 'Lectura Novela', '14,15 años', 'atomLector/pasta/basicos/', 'atomLector/lecturasMovil/lecturasMedicion/3s/lect74/', '9', 'Texto Continuo', '17', 'asd', '0', '1', 'Lunes 10 al viernes 14 de agosto 2020');
+
+
+INSERT INTO `atom1`.`atomolector` (`idLectura`, `nombreLectura`, `descripcion`, `edadLectura`, `rutaPasta`, `rutaLectura`, `grado`, `tipoLectura`, `cantidadFicheros`, `audio`, `noLecturaDiaria`, `estatus`, `semanaMaestro`) VALUES ('21024', 'La isla del tesoro', 'Lectura Novela', '15,16 años', 'atomLector/pasta/diver/', 'atomLector/lecturasMovil/lecturasMedicion/4d/lect74/', '10', 'Texto continuo', '20', 'asd', '0', '1', 'Lunes 10 al viernes 14 de agosto 2020');
+
+
+INSERT INTO `atom1`.`atomolector` (`idLectura`, `nombreLectura`, `descripcion`, `edadLectura`, `rutaPasta`, `rutaLectura`, `grado`, `tipoLectura`, `cantidadFicheros`, `audio`, `noLecturaDiaria`, `estatus`, `semanaMaestro`) VALUES ('21124', 'La carreta', 'Lectura Novela', '16,17 años', 'atomLector/pasta/diver/', 'atomLector/lecturasMovil/lecturasMedicion/5d/lect74/', '11', 'Texto continuo', '25', 'asd', '0', '1', 'Lunes 10 al viernes 14 de agosto 2020');
+
+
+
+
+
+///martanovella 
+23673 5to diver
+
+
+//acropolis
+33894 prepa
+
+
+//les
+33850 6to primaria
+
+
+//campussur
+
+33832  5to diver
+
+
+cea	
+//21825
+//22372
+
+colegioelrosario
+
+//23402
+
+laprepa
+34027
+
+/*cuestionarios --------------------------------------------------------------------------------------------------------------------------*/
+
+INSERT INTO `atom1`.`cuestionario` (`idCuestionario`, `idLectura`, `punteoCuestionario`, `cantidadPreguntas`, `nombreCuestionario`, `fundamento`) VALUES ('21824', '21824', '100', '5', 'Enanito minero ', 'cnb');
+INSERT INTO `atom1`.`cuestionario` (`idCuestionario`, `idLectura`, `punteoCuestionario`, `cantidadPreguntas`, `nombreCuestionario`, `fundamento`) VALUES ('21424', '21424', '100', '5', 'Todos tenemos una familia ', 'cnb');
+INSERT INTO `atom1`.`cuestionario` (`idCuestionario`, `idLectura`, `punteoCuestionario`, `cantidadPreguntas`, `nombreCuestionario`, `fundamento`) VALUES ('21524', '21524', '100', '5', 'La rana que no sabía croar', 'cnb');
+
+
+
+INSERT INTO `atom1`.`cuestionario` (`idCuestionario`, `idLectura`, `punteoCuestionario`, `cantidadPreguntas`, `nombreCuestionario`, `fundamento`) VALUES ('20148', '20124', '100', '10', 'El mago alérgico - Estándar CNB', 'cnb');
+INSERT INTO `atom1`.`cuestionario` (`idCuestionario`, `idLectura`, `punteoCuestionario`, `cantidadPreguntas`, `nombreCuestionario`, `fundamento`, `estandarEvaluado`, `valorInicial`) VALUES ('20149', '20124', '100', '10', 'El mago alérgico - Estándar PISA', 'pisa', '1B', '262');
+
+INSERT INTO `atom1`.`cuestionario` (`idCuestionario`, `idLectura`, `punteoCuestionario`, `cantidadPreguntas`, `nombreCuestionario`, `fundamento`) VALUES ('20248', '20224', '100', '10', 'Perseverancia - Estándar CNB', 'cnb');
+INSERT INTO `atom1`.`cuestionario` (`idCuestionario`, `idLectura`, `punteoCuestionario`, `cantidadPreguntas`, `nombreCuestionario`, `fundamento`, `estandarEvaluado`, `valorInicial`) VALUES ('20249', '20224', '100', '10', 'Perseverancia - Estándar PISA', 'pisa', '1A', '335');
+
+INSERT INTO `atom1`.`cuestionario` (`idCuestionario`, `idLectura`, `punteoCuestionario`, `cantidadPreguntas`, `nombreCuestionario`, `fundamento`) VALUES ('20348', '20324', '100', '12', 'El dueño de la luz - Estándar CNB', 'cnb');
+INSERT INTO `atom1`.`cuestionario` (`idCuestionario`, `idLectura`, `punteoCuestionario`, `cantidadPreguntas`, `nombreCuestionario`, `fundamento`, `estandarEvaluado`, `valorInicial`) VALUES ('20349', '20324', '100', '10', 'El dueño de la luz - Estándar PISA', 'pisa', '2', '407');
+
+INSERT INTO `atom1`.`cuestionario` (`idCuestionario`, `idLectura`, `punteoCuestionario`, `cantidadPreguntas`, `nombreCuestionario`, `fundamento`) VALUES ('20448', '20424', '100', '15', 'El rey mocho - Estándar CNB', 'cnb');
+INSERT INTO `atom1`.`cuestionario` (`idCuestionario`, `idLectura`, `punteoCuestionario`, `cantidadPreguntas`, `nombreCuestionario`, `fundamento`, `estandarEvaluado`, `valorInicial`) VALUES ('20449', '20424', '100', '10', 'El rey mocho - Estándar PISA', 'pisa', '3', '480');
+
+INSERT INTO `atom1`.`cuestionario` (`idCuestionario`, `idLectura`, `punteoCuestionario`, `cantidadPreguntas`, `nombreCuestionario`, `fundamento`) VALUES ('20548', '20524', '100', '16', 'Una visita al mercado - Estándar CNB', 'cnb');
+INSERT INTO `atom1`.`cuestionario` (`idCuestionario`, `idLectura`, `punteoCuestionario`, `cantidadPreguntas`, `nombreCuestionario`, `fundamento`, `estandarEvaluado`, `valorInicial`) VALUES ('20549', '20524', '100', '10', 'Una visita al mercado - Estándar PISA', 'pisa', '4', '553');
+
+INSERT INTO `atom1`.`cuestionario` (`idCuestionario`, `idLectura`, `punteoCuestionario`, `cantidadPreguntas`, `nombreCuestionario`, `fundamento`) VALUES ('20648', '20624', '100', '17', 'Solo, solo lo haré - Estándar CNB', 'cnb');
+INSERT INTO `atom1`.`cuestionario` (`idCuestionario`, `idLectura`, `punteoCuestionario`, `cantidadPreguntas`, `nombreCuestionario`, `fundamento`, `estandarEvaluado`, `valorInicial`) VALUES ('20649', '20624', '100', '10', 'Solo, solo lo haré - Estándar pisa', 'pisa', '5', '626');
+
+
+
+
+
+INSERT INTO `atom1`.`cuestionario` (`idCuestionario`, `idLectura`, `punteoCuestionario`, `cantidadPreguntas`, `nombreCuestionario`, `fundamento`) VALUES ('20748', '20724', '100', '17', 'El halcón maltés - Estándar CNB', 'cnb');
+INSERT INTO `atom1`.`cuestionario` (`idCuestionario`, `idLectura`, `punteoCuestionario`, `cantidadPreguntas`, `nombreCuestionario`, `fundamento`, `estandarEvaluado`, `valorInicial`) VALUES ('20749', '20724', '100', '10', 'El halcón maltés - Estándar PISA', 'pisa', '4', '553');
+
+INSERT INTO `atom1`.`cuestionario` (`idCuestionario`, `idLectura`, `punteoCuestionario`, `cantidadPreguntas`, `nombreCuestionario`, `fundamento`) VALUES ('20848', '20824', '100', '17', '1984 George Orwell - Estándar CNB', 'cnb');
+INSERT INTO `atom1`.`cuestionario` (`idCuestionario`, `idLectura`, `punteoCuestionario`, `cantidadPreguntas`, `nombreCuestionario`, `fundamento`, `estandarEvaluado`, `valorInicial`) VALUES ('20849', '20824', '100', '10', '1984 George Orwell - Estándar PISA', 'pisa', '5', '626');
+
+INSERT INTO `atom1`.`cuestionario` (`idCuestionario`, `idLectura`, `punteoCuestionario`, `cantidadPreguntas`, `nombreCuestionario`, `fundamento`) VALUES ('20948', '20924', '100', '17', 'Zorba el griego - Estándar CNB', 'cnb');
+INSERT INTO `atom1`.`cuestionario` (`idCuestionario`, `idLectura`, `punteoCuestionario`, `cantidadPreguntas`, `nombreCuestionario`, `fundamento`, `estandarEvaluado`, `valorInicial`) VALUES ('20949', '20924', '100', '10', 'Zorba el griego - Estándar PISA', 'pisa', '6', '698');
+
+INSERT INTO `atom1`.`cuestionario` (`idCuestionario`, `idLectura`, `punteoCuestionario`, `cantidadPreguntas`, `nombreCuestionario`, `fundamento`) VALUES ('21048', '21024', '100', '17', 'La isla del tesoro - Estándar CNB', 'cnb');
+INSERT INTO `atom1`.`cuestionario` (`idCuestionario`, `idLectura`, `punteoCuestionario`, `cantidadPreguntas`, `nombreCuestionario`, `fundamento`, `estandarEvaluado`, `valorInicial`) VALUES ('21049', '21024', '100', '10', 'La isla del tesoro - Estándar PISA', 'pisa', '5', '626');
+
+INSERT INTO `atom1`.`cuestionario` (`idCuestionario`, `idLectura`, `punteoCuestionario`, `cantidadPreguntas`, `nombreCuestionario`, `fundamento`) VALUES ('21148', '21124', '100', '17', 'La carreta - Estándar CNB', 'cnb');
+INSERT INTO `atom1`.`cuestionario` (`idCuestionario`, `idLectura`, `punteoCuestionario`, `cantidadPreguntas`, `nombreCuestionario`, `fundamento`, `estandarEvaluado`, `valorInicial`) VALUES ('21149', '21124', '100', '10', 'La carreta - Estándar CNB', 'pisa', '6', '698');
+
+
+/*Glosario --------------------------------------------------------------------------------------------------------------------------*/
+
+INSERT INTO `atom1`.`glosario` (`idglosario`, `glosarioNombre`, `idLectura`) VALUES ('20124', 'El mago alérgico', '20124');
+INSERT INTO `atom1`.`glosario` (`idglosario`, `glosarioNombre`, `idLectura`) VALUES ('20224', 'Perseverancia', '20224');
+INSERT INTO `atom1`.`glosario` (`idglosario`, `glosarioNombre`, `idLectura`) VALUES ('20324', 'El dueño de la luz', '20324');
+INSERT INTO `atom1`.`glosario` (`idglosario`, `glosarioNombre`, `idLectura`) VALUES ('20424', 'El rey mocho', '20424');
+INSERT INTO `atom1`.`glosario` (`idglosario`, `glosarioNombre`, `idLectura`) VALUES ('20525', 'Una visita al mercado', '20524');
+INSERT INTO `atom1`.`glosario` (`idglosario`, `glosarioNombre`, `idLectura`) VALUES ('20624', 'Solo, solo lo haré', '20624');
+
+INSERT INTO `atom1`.`glosario` (`idglosario`, `glosarioNombre`, `idLectura`) VALUES ('20724', 'El halcón maltés', '20724');
+INSERT INTO `atom1`.`glosario` (`idglosario`, `glosarioNombre`, `idLectura`) VALUES ('20824', '1984 George Orwell', '20824');
+INSERT INTO `atom1`.`glosario` (`idglosario`, `glosarioNombre`, `idLectura`) VALUES ('20924', 'Zorba el griego', '20924');
+INSERT INTO `atom1`.`glosario` (`idglosario`, `glosarioNombre`, `idLectura`) VALUES ('21024', 'La isla del tesoro', '21024');
+INSERT INTO `atom1`.`glosario` (`idglosario`, `glosarioNombre`, `idLectura`) VALUES ('21124', 'La carreta', '21124');
+
+
+/*quiz personajes ----------------------------------------------------------------------------------------------------------------------*/
+
+INSERT INTO `atom1`.`quizpersonajes` (`idQuiz`, `idLectura`, `punteoQuiz`, `cantidadPreguntas`, `nombreQuiz`) VALUES ('20124', '20124', '100', '5', 'El mago alérgico');
+INSERT INTO `atom1`.`quizpersonajes` (`idQuiz`, `idLectura`, `punteoQuiz`, `cantidadPreguntas`, `nombreQuiz`) VALUES ('20224', '20224', '100', '5', 'Perseverancia');
+INSERT INTO `atom1`.`quizpersonajes` (`idQuiz`, `idLectura`, `punteoQuiz`, `cantidadPreguntas`, `nombreQuiz`) VALUES ('20324', '20324', '100', '5', 'El dueño de la luz');
+INSERT INTO `atom1`.`quizpersonajes` (`idQuiz`, `idLectura`, `punteoQuiz`, `cantidadPreguntas`, `nombreQuiz`) VALUES ('20424', '20424', '100', '5', 'El rey mocho');
+INSERT INTO `atom1`.`quizpersonajes` (`idQuiz`, `idLectura`, `punteoQuiz`, `cantidadPreguntas`, `nombreQuiz`) VALUES ('20524', '20524', '100', '5', 'Una visita al mercado');
+INSERT INTO `atom1`.`quizpersonajes` (`idQuiz`, `idLectura`, `punteoQuiz`, `cantidadPreguntas`, `nombreQuiz`) VALUES ('20624', '20624', '100', '5', 'Solo, solo lo haré');
+
+
+INSERT INTO `atom1`.`quizpersonajes` (`idQuiz`, `idLectura`, `punteoQuiz`, `cantidadPreguntas`, `nombreQuiz`) VALUES ('20724', '20724', '100', '5', 'El halcón maltés');
+INSERT INTO `atom1`.`quizpersonajes` (`idQuiz`, `idLectura`, `punteoQuiz`, `cantidadPreguntas`, `nombreQuiz`) VALUES ('20824', '20824', '0', '5', '1984 George Orwell');
+INSERT INTO `atom1`.`quizpersonajes` (`idQuiz`, `idLectura`, `punteoQuiz`, `cantidadPreguntas`, `nombreQuiz`) VALUES ('20924', '20924', '100', '5', 'Zorba el griego');
+INSERT INTO `atom1`.`quizpersonajes` (`idQuiz`, `idLectura`, `punteoQuiz`, `cantidadPreguntas`, `nombreQuiz`) VALUES ('21024', '21024', '100', '5', 'La isla del tesoro');
+INSERT INTO `atom1`.`quizpersonajes` (`idQuiz`, `idLectura`, `punteoQuiz`, `cantidadPreguntas`, `nombreQuiz`) VALUES ('21124', '21124', '100', '5', 'La carreta');
+
+

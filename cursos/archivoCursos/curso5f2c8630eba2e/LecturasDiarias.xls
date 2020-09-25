@@ -1,0 +1,246 @@
+<table class="table table-hover" id="lectDiaria">
+                       <caption style="display: none;">Grado: 4to Diver<br> Carrera: Ciencias y Letras <br>  Semana: 25<br> Reporte a fecha: 12/08/2020 09:23:31</caption>
+                      <thead>
+
+                                                <tr>
+                          <th scope="col">Alumno</th>
+                          <th scope="col">Registros</th>
+                          
+                                                    <th title="Luz de luna" scope="col">Martes<br>Luz de luna</th>
+                                                  <th scope="col">Avance Semanal</th>
+                        </tr>
+                      </thead>
+
+                      <tbody class="text-left">
+                                                 <tr>
+                            
+                          <td>Jose Alejandro Abalony Rojas</td>
+                          <td><a href="reportesDetalles.php?idUsuario=8002&amp;semana=25&amp;grado=10&amp;nombreUsuario=Jose Alejandro Abalony Rojas" target="_blank">Detalle</a></td>
+                          <td>No</td>
+
+                            
+                          <td></td>
+
+                           
+                          <td>0%</td>
+                        </tr>
+                                                      <tr>
+                            
+                          <td>Diego Ricardo Alvizures Sanchez</td>
+                          <td><a href="reportesDetalles.php?idUsuario=8003&amp;semana=25&amp;grado=10&amp;nombreUsuario=Diego Ricardo Alvizures Sanchez" target="_blank">Detalle</a></td>
+                          <td>No</td>
+
+                            
+                          <td></td>
+
+                           
+                          <td>0%</td>
+                        </tr>
+                                                      <tr>
+                            
+                          <td>Daniel Humberto Baquiax Caballeros</td>
+                          <td><a href="reportesDetalles.php?idUsuario=8004&amp;semana=25&amp;grado=10&amp;nombreUsuario=Daniel Humberto Baquiax Caballeros" target="_blank">Detalle</a></td>
+                          <td>No</td>
+
+                            
+                          <td></td>
+
+                           
+                          <td>0%</td>
+                        </tr>
+                                                      <tr>
+                            
+                          <td>Andy Esteban Conde Montepeque</td>
+                          <td><a href="reportesDetalles.php?idUsuario=8005&amp;semana=25&amp;grado=10&amp;nombreUsuario=Andy Esteban Conde Montepeque" target="_blank">Detalle</a></td>
+                          <td>No</td>
+
+                            
+                          <td></td>
+
+                           
+                          <td>0%</td>
+                        </tr>
+                                                      <tr>
+                            
+                          <td>Angel David  Dieguez Ordonez</td>
+                          <td><a href="reportesDetalles.php?idUsuario=8006&amp;semana=25&amp;grado=10&amp;nombreUsuario=Angel David  Dieguez Ordonez" target="_blank">Detalle</a></td>
+                          <td>No</td>
+
+                            
+                          <td></td>
+
+                           
+                          <td>0%</td>
+                        </tr>
+                                                      <tr>
+                            
+                          <td>Ignacio Estrada Molina</td>
+                          <td><a href="reportesDetalles.php?idUsuario=8007&amp;semana=25&amp;grado=10&amp;nombreUsuario=Ignacio Estrada Molina" target="_blank">Detalle</a></td>
+                          <td>No</td>
+
+                            
+                          <td></td>
+
+                           
+                          <td>0%</td>
+                        </tr>
+                                                      <tr>
+                            
+                          <td>Mike Harold Forbes Guerra  </td>
+                          <td><a href="reportesDetalles.php?idUsuario=8008&amp;semana=25&amp;grado=10&amp;nombreUsuario=Mike Harold Forbes Guerra  " target="_blank">Detalle</a></td>
+                          <td>No</td>
+
+                            
+                          <td></td>
+
+                           
+                          <td>0%</td>
+                        </tr>
+                                                      <tr>
+                            
+                          <td>Juan Esteban Gonzalez Sierra</td>
+                          <td><a href="reportesDetalles.php?idUsuario=8009&amp;semana=25&amp;grado=10&amp;nombreUsuario=Juan Esteban Gonzalez Sierra" target="_blank">Detalle</a></td>
+                          <td>No</td>
+
+                            
+                          <td></td>
+
+                           
+                          <td>0%</td>
+                        </tr>
+                                                      <tr>
+                            
+                          <td>Fernando Andres Guerrero Mazariegos</td>
+                          <td><a href="reportesDetalles.php?idUsuario=8010&amp;semana=25&amp;grado=10&amp;nombreUsuario=Fernando Andres Guerrero Mazariegos" target="_blank">Detalle</a></td>
+                          <td>No</td>
+
+                            
+                          <td></td>
+
+                           
+                          <td>0%</td>
+                        </tr>
+                                                      <tr>
+                            
+                          <td>Osman Ivan Hidalgo Capriel </td>
+                          <td><a href="reportesDetalles.php?idUsuario=8011&amp;semana=25&amp;grado=10&amp;nombreUsuario=Osman Ivan Hidalgo Capriel " target="_blank">Detalle</a></td>
+                          <td>No</td>
+
+                            
+                          <td></td>
+
+                           
+                          <td>0%</td>
+                        </tr>
+                                                      <tr>
+                            
+                          <td>Sebastian Hidalgo Rojas</td>
+                          <td><a href="reportesDetalles.php?idUsuario=8012&amp;semana=25&amp;grado=10&amp;nombreUsuario=Sebastian Hidalgo Rojas" target="_blank">Detalle</a></td>
+                          <td>No</td>
+
+                            
+                          <td></td>
+
+                           
+                          <td>0%</td>
+                        </tr>
+                                                      <tr>
+                            
+                          <td>Diego Enrique Lopez Pocasangre</td>
+                          <td><a href="reportesDetalles.php?idUsuario=8013&amp;semana=25&amp;grado=10&amp;nombreUsuario=Diego Enrique Lopez Pocasangre" target="_blank">Detalle</a></td>
+                          <td>No</td>
+
+                            
+                          <td></td>
+
+                           
+                          <td>0%</td>
+                        </tr>
+                                                      <tr>
+                            
+                          <td>Adrian Emanuel Meckler Ovando</td>
+                          <td><a href="reportesDetalles.php?idUsuario=8014&amp;semana=25&amp;grado=10&amp;nombreUsuario=Adrian Emanuel Meckler Ovando" target="_blank">Detalle</a></td>
+                          <td>No</td>
+
+                            
+                          <td></td>
+
+                           
+                          <td>0%</td>
+                        </tr>
+                                                      <tr>
+                            
+                          <td>Jose Carlos  Perez Urquilla</td>
+                          <td><a href="reportesDetalles.php?idUsuario=8015&amp;semana=25&amp;grado=10&amp;nombreUsuario=Jose Carlos  Perez Urquilla" target="_blank">Detalle</a></td>
+                          <td>No</td>
+
+                            
+                          <td></td>
+
+                           
+                          <td>0%</td>
+                        </tr>
+                                                      <tr>
+                            
+                          <td>Javier Alfonso Pineda Canel</td>
+                          <td><a href="reportesDetalles.php?idUsuario=8016&amp;semana=25&amp;grado=10&amp;nombreUsuario=Javier Alfonso Pineda Canel" target="_blank">Detalle</a></td>
+                          <td>No</td>
+
+                            
+                          <td></td>
+
+                           
+                          <td>0%</td>
+                        </tr>
+                                                      <tr>
+                            
+                          <td>Cesar Augusto Pineda Mendoza</td>
+                          <td><a href="reportesDetalles.php?idUsuario=8017&amp;semana=25&amp;grado=10&amp;nombreUsuario=Cesar Augusto Pineda Mendoza" target="_blank">Detalle</a></td>
+                          <td>No</td>
+
+                            
+                          <td></td>
+
+                           
+                          <td>0%</td>
+                        </tr>
+                                                      <tr>
+                            
+                          <td>Pablo Andre Sagastume Hernandez</td>
+                          <td><a href="reportesDetalles.php?idUsuario=8018&amp;semana=25&amp;grado=10&amp;nombreUsuario=Pablo Andre Sagastume Hernandez" target="_blank">Detalle</a></td>
+                          <td>No</td>
+
+                            
+                          <td></td>
+
+                           
+                          <td>0%</td>
+                        </tr>
+                                                      <tr>
+                            
+                          <td>Pablo  Jose Samayoa Azmitia</td>
+                          <td><a href="reportesDetalles.php?idUsuario=8019&amp;semana=25&amp;grado=10&amp;nombreUsuario=Pablo  Jose Samayoa Azmitia" target="_blank">Detalle</a></td>
+                          <td>No</td>
+
+                            
+                          <td></td>
+
+                           
+                          <td>0%</td>
+                        </tr>
+                                                      <tr>
+                            
+                          <td>Jose Francisco Villagran Castaneda</td>
+                          <td><a href="reportesDetalles.php?idUsuario=8020&amp;semana=25&amp;grado=10&amp;nombreUsuario=Jose Francisco Villagran Castaneda" target="_blank">Detalle</a></td>
+                          <td>No</td>
+
+                            
+                          <td></td>
+
+                           
+                          <td>0%</td>
+                        </tr>
+                                                  
+                                                        
+                      </tbody>
+                    </table>
